@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
         "id": "1",
         "name": "HOMEWORK",
@@ -14,4 +15,8 @@
         "name": "ATTENDANCE", 
         "icon": "https://studentstest.s3.amazonaws.com/asset_images/attendance.png"
     }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
