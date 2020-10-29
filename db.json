@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "dashboard": [
     {
         "id": "1",
         "name": "HOMEWORK",
@@ -14,6 +14,66 @@
         "id": "3",
         "name": "ATTENDANCE", 
         "icon": "https://studentstest.s3.amazonaws.com/asset_images/attendance.png"
+    },
+    {
+        "id": "4",
+        "name": "ACADEMICS", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/academics.png"
+    },
+    {
+        "id": "5",
+        "name": "MESSAGES", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/messages.png"
+    },
+    {
+        "id": "6",
+        "name": "REQUEST", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/messages.png"
+    },
+    {
+        "id": "7",
+        "name": "TIME TABLE",
+        "icon" : "https://studentstest.s3.amazonaws.com/asset_images/timetable.png"
+    },
+    {
+        "id": "8",
+        "name": "EXAMINATION", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/examination.png"
+    },
+    {
+        "id": "9",
+        "name": "RESULTS", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/results.png"
+    },
+    {
+        "id": "10",
+        "name": "MEDICAL", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/medical.png"
+    },
+    {
+        "id": "11",
+        "name": "FEES", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/fees.png"
+    },
+    {
+        "id": "12",
+        "name": "GALLERY", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/gallery.png"
+    },
+    {
+        "id": "13",
+        "name": "SCHOOL NEWS", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/news.png"
+    },
+    {
+        "id": "14",
+        "name": "EVENTS", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/events.png"
+    },
+    {
+        "id": "15",
+        "name": "NOTICE", 
+        "icon": "https://studentstest.s3.amazonaws.com/asset_images/notice.png"
     }
 ],
   "profile": {
