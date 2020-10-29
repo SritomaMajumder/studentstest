@@ -76,7 +76,7 @@
         "icon": "https://studentstest.s3.amazonaws.com/asset_images/notice.png"
     }
 ],
-"homework" : [
+"homework": [
     {
         "id": "1",
         "title": "Read a Book",
