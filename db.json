@@ -77,208 +77,216 @@
       }
   ],
   "homework": [
-      {
-          "id": "1",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents": [
-              {
-                  "id": "1",
-                  "filePath": ""
-              },
-              {
-                  "id": "2",
-                  "filePath": ""
-              },
-              {
-                  "id": "3",
-                  "filePath": ""
-              }
-          ],
-          "upload_homework": "true"
-      },
-      {
-          "id": "2",
-          "title": "Bring Gear",
-          "subject": "PE",
-          "notes": "Kindly download the attachment",
-          "due_date": "23-09-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "3",
-          "title": "Multiplication",
-          "subject": "Maths",
-          "notes": "Do page 98 of Mental Maths",
-          "due_date": "23-10-2020",
-          "documents":[],
-          "upload_homework": "true"
-      },
-      {
-          "id": "4",
-          "title": "Research Synthesis Routes",
-          "subject": "Chemistry",
-          "notes": "Kindly do the exercise",
-          "due_date": "23-08-2020",
-          "upload_homework": "false"
-      },
-      {
-          "id": "5",
-          "title": "Chennai",
-          "subject": "Social Science",
-          "notes": "Kindly solve the questions attached",
-          "due_date": "23-11-2020",
-          "documents":[],
-          "upload_homework": "true"
-      },
-      {
-          "id": "6",
-          "title": "Living and Non Living",
-          "subject": "Science",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "05-11-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "7",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "8",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "9",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "10",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "11",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "12",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "13",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "14",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "15",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "16",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "17",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "18",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "19",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "20",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      },
-      {
-          "id": "21",
-          "title": "Read a Book",
-          "subject": "English",
-          "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
-          "documents":[],
-          "upload_homework": "false"
-      }
-  ],
+    {
+        "id": "1",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "2020-08-23",
+        "documents": [
+            {
+                "id": "1",
+                "filePath": ""
+            },
+            {
+                "id": "2",
+                "filePath": ""
+            },
+            {
+                "id": "3",
+                "filePath": ""
+            }
+        ],
+        "upload_homework": "true",
+        "submitted": "true"
+    },
+    {
+        "id": "2",
+        "title": "Bring Gear",
+        "subject": "PE",
+        "notes": "Kindly download the attachment",
+        "due_date": "2020-09-14",
+        "documents":[],
+        "upload_homework": "false",
+        "submitted": "true"
+    },
+    {
+        "id": "3",
+        "title": "Multiplication",
+        "subject": "Maths",
+        "notes": "Do page 98 of Mental Maths",
+        "due_date": "2020-10-03",
+        "documents":[],
+        "upload_homework": "true",
+        "submitted": "false"
+    },
+    {
+        "id": "4",
+        "title": "Research Synthesis Routes",
+        "subject": "Chemistry",
+        "notes": "Kindly do the exercise",
+        "due_date": "2020-08-15",
+        "upload_homework": "false",
+        "submitted": "false"
+    },
+    {
+        "id": "5",
+        "title": "Chennai",
+        "subject": "Social Science",
+        "notes": "Kindly solve the questions attached",
+        "due_date": "2020-11-15",
+        "documents":[],
+        "upload_homework": "true",
+        "submitted": "false"
+    },
+    {
+        "id": "6",
+        "title": "Living and Non Living",
+        "subject": "Science",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "2020-11-05",
+        "documents":[],
+        "upload_homework": "false",
+        "submitted": "false"
+    },
+    {
+        "id": "7",
+        "title": "Food Habit of Animal",
+        "subject": "Science",
+        "notes": "Kindly do the exercise in your copy",
+        "due_date": "2020-01-14",
+        "documents":[],
+        "upload_homework": "false",
+        "submitted": "false"
+    },
+    {
+        "id": "8",
+        "title": "Force, Work and Energy",
+        "subject": "Science",
+        "notes": "Kindly do the exercise in your copy",
+        "due_date": "2020-02-09",
+        "documents":[],
+        "upload_homework": "false",
+        "submitted": "false"
+    },
+    {
+        "id": "9",
+        "title": "Working with MS Paint",
+        "subject": "Computer",
+        "notes": "Do the exercise in the book",
+        "due_date": "2020-03-21",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "10",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "2020-04-01",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "11",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "12",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "13",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "14",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "15",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "16",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "17",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "18",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "19",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "20",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    },
+    {
+        "id": "21",
+        "title": "Read a Book",
+        "subject": "English",
+        "notes": "Kindly raed the chapter 6 from Heidi book",
+        "due_date": "23-08-2020",
+        "documents":[],
+        "upload_homework": "false"
+    }
+],
     "profile": {
         "name": "Ayushi Majumder",
         "class": "3",
