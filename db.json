@@ -82,7 +82,7 @@
           "title": "Read a Book",
           "subject": "English",
           "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "23-08-2020",
+          "due_date": "23-08-2020 10:34:23",
           "documents": [
               {
                   "id": "1",
@@ -104,7 +104,7 @@
           "title": "Bring Gear",
           "subject": "PE",
           "notes": "Kindly download the attachment",
-          "due_date": "23-09-2020",
+          "due_date": "23-09-2020 10:34:23",
           "documents":[],
           "upload_homework": "false"
       },
@@ -113,7 +113,7 @@
           "title": "Multiplication",
           "subject": "Maths",
           "notes": "Do page 98 of Mental Maths",
-          "due_date": "23-10-2020",
+          "due_date": "23-10-2020 10:34:23",
           "documents":[],
           "upload_homework": "true"
       },
@@ -122,7 +122,7 @@
           "title": "Research Synthesis Routes",
           "subject": "Chemistry",
           "notes": "Kindly do the exercise",
-          "due_date": "23-08-2020",
+          "due_date": "23-08-2020 10:34:23",
           "upload_homework": "false"
       },
       {
@@ -130,7 +130,7 @@
           "title": "Chennai",
           "subject": "Social Science",
           "notes": "Kindly solve the questions attached",
-          "due_date": "23-11-2020",
+          "due_date": "23-11-2020 10:34:23",
           "documents":[],
           "upload_homework": "true"
       },
@@ -139,7 +139,7 @@
           "title": "Living and Non Living",
           "subject": "Science",
           "notes": "Kindly raed the chapter 6 from Heidi book",
-          "due_date": "05-11-2020",
+          "due_date": "05-11-2020 10:34:23",
           "documents":[],
           "upload_homework": "false"
       },
@@ -283,7 +283,7 @@
         "name": "Ayushi Majumder",
         "class": "3",
         "section": "C",
-        "roll_number": "160114",
+        "roll_number": "160113",
         "profile_pic": "https://studentstest.s3.amazonaws.com/asset_images/passport-photo-sample.png",
         "mobile_no": "9830539048",
         "email_id": "partha1982@gmail.com",
