@@ -87,15 +87,15 @@
         "documents": [
             {
                 "id": "1",
-                "filePath": ""
+                "filePath": "https://studentstest.s3.amazonaws.com/uploads/CHAPTER-6_Let's+learn+LOGO_Short+question_Ass.docx"
             },
             {
                 "id": "2",
-                "filePath": ""
+                "filePath": "https://studentstest.s3.amazonaws.com/uploads/Class+3_May_Week1_Day2_Computer+Basics_Assignment-10657202011120.pdf"
             },
             {
                 "id": "3",
-                "filePath": ""
+                "filePath": "https://studentstest.s3.amazonaws.com/uploads/Class+3_Week3_Day+1_Computer+Basics_Assignment-1064282020124522.pdf"
             }
         ],
         "upload_homework": "true",
