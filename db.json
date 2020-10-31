@@ -83,6 +83,7 @@
         "subject": "English",
         "notes": "Kindly raed the chapter 6 from Heidi book",
         "due_date": "2020-08-23",
+		"date": "2020-08-13",
         "documents": [
             {
                 "id": "1",
@@ -106,6 +107,7 @@
         "subject": "PE",
         "notes": "Kindly download the attachment",
         "due_date": "2020-09-14",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "false",
         "submitted": "true"
@@ -116,6 +118,7 @@
         "subject": "Maths",
         "notes": "Do page 98 of Mental Maths",
         "due_date": "2020-10-03",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "true",
         "submitted": "false"
@@ -126,6 +129,7 @@
         "subject": "Chemistry",
         "notes": "Kindly do the exercise",
         "due_date": "2020-08-15",
+		"date": "2020-08-13",
         "upload_homework": "false",
         "submitted": "false"
     },
@@ -135,6 +139,7 @@
         "subject": "Social Science",
         "notes": "Kindly solve the questions attached",
         "due_date": "2020-11-15",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "true",
         "submitted": "false"
@@ -145,6 +150,7 @@
         "subject": "Science",
         "notes": "Kindly raed the chapter 6 from Heidi book",
         "due_date": "2020-11-05",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "false",
         "submitted": "false"
@@ -155,6 +161,7 @@
         "subject": "Science",
         "notes": "Kindly do the exercise in your copy",
         "due_date": "2020-01-14",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "false",
         "submitted": "false"
@@ -165,6 +172,7 @@
         "subject": "Science",
         "notes": "Kindly do the exercise in your copy",
         "due_date": "2020-02-09",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "false",
         "submitted": "false"
@@ -175,114 +183,7 @@
         "subject": "Computer",
         "notes": "Do the exercise in the book",
         "due_date": "2020-03-21",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "10",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-04-01",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "11",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-05-19",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "12",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-06-03",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "13",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-07-13",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "14",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-08-18",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "15",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-09-08",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "16",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-10-30",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "17",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-11-23",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "18",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-12-28",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "19",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-12-15",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "20",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-12-06",
-        "documents":[],
-        "upload_homework": "false"
-    },
-    {
-        "id": "21",
-        "title": "Read a Book",
-        "subject": "English",
-        "notes": "Kindly raed the chapter 6 from Heidi book",
-        "due_date": "2020-11-04",
+		"date": "2020-08-13",
         "documents":[],
         "upload_homework": "false"
     }
