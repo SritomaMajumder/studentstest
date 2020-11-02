@@ -86,10 +86,6 @@
 		"date": "2020-08-13",
         "documents": [
             {
-                "id": "1",
-                "filePath": "https://studentstest.s3.amazonaws.com/uploads/CHAPTER-6_Let's+learn+LOGO_Short+question_Ass.docx"
-            },
-            {
                 "id": "2",
                 "filePath": "https://studentstest.s3.amazonaws.com/uploads/Class+3_May_Week1_Day2_Computer+Basics_Assignment-10657202011120.pdf"
             },
